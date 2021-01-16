@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/RichardFelipe-collab/RichardFelipe-collab/blob/main/4855639.jpg">
+<img width="400px" height"500px" src="https://github.com/RichardFelipe-collab/RichardFelipe-collab/blob/main/4855639.jpg">
 
 
 # :zap: Richard Felipe <br>
