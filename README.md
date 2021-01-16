@@ -24,8 +24,8 @@ Currently studying Analysis and Systems Development at Cruzeiro do Sul, I like t
 
 # Technologies: <br>
 [
- <img src="https://img.shields.io/badge/-DOCKER-329ded?style=flat-square&logo=docker&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-DOCKER-329ded?style=flat-square&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+ 
  <img src="https://img.shields.io/badge/-PYTHON-204462?style=flat-square&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
