@@ -22,7 +22,7 @@ Atualmente estuda Analise e Desenvolvimento de Sistemas na Cruzeiro do Sul, gost
 
  <br>
 ## Technologies <br>
- <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+ <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
 
 
