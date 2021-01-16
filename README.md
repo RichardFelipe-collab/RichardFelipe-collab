@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="400px" height="500px" src="https://github.com/RichardFelipe-collab/RichardFelipe-collab/blob/main/4855639.jpg">
+<img align="center" width="300px" height="300px" src="https://github.com/RichardFelipe-collab/RichardFelipe-collab/blob/main/4855639.jpg">
 
 
 # :zap: Richard Felipe <br>
@@ -11,15 +11,15 @@ Currently studying Analysis and Systems Development at Cruzeiro do Sul, I like t
 
 ## Contact-me on:<br>
 
-<a target="_blank" href="https://www.linkedin.com/in/richard-felipe-da-silva-oliveira-1ab55a135/">
+<a  href="https://www.linkedin.com/in/richard-felipe-da-silva-oliveira-1ab55a135/" target="_blank">
  <img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5511946348130">
+<a  href="https://api.whatsapp.com/send?phone=5511946348130" target="_blank">
  <img align="left"  src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/>
 </a>
 
-<a target="_blank" href="mailto:richardfelipe.rfo@gmail.com">
+<a  href="mailto:richardfelipe.rfo@gmail.com" target="_blank">
   <img alt="Richard" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
 </a>
 <br>
