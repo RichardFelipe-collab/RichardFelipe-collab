@@ -17,7 +17,7 @@ Atualmente estuda Analise e Desenvolvimento de Sistemas na Cruzeiro do Sul, gost
 </a>
 
 <a target="_blank" href="mailto:richardfelipe.rfo@gmail.com">
-  <a href="https://icons8.com/icon/qyRpAggnV0zH/gmail">Gmail icon by Icons8</a>
+  <img alt="Richard" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
 </a>
 
 
