@@ -3,7 +3,6 @@
 
 
 # :zap: Richard Felipe <br>
-<hr>
 
 
 Currently studying Analysis and Systems Development at Cruzeiro do Sul, I like to learn to use different tools, languages ​​and operating systems and use them to solve problems and build something. 
