@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 
-# Richard Felipe <br>
+# :zap: Richard Felipe <br>
 <hr>
 
 
@@ -22,7 +22,7 @@ Currently studying Analysis and Systems Development at Cruzeiro do Sul, I like t
 </a>
 <br>
 
-# Technologies: <br>
+## Technologies: <br>
 
 <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"><img src="https://img.shields.io/badge/-PYTHON-204462?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"><img src="https://img.shields.io/badge/-Spring-ffffff?style=flat-square&logo=spring"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
  
