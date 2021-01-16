@@ -4,7 +4,8 @@
 # Richard Felipe <br>
 <hr>
 
-Atualmente estuda Analise e Desenvolvimento de Sistemas na Cruzeiro do Sul, gosto de aprender a utilizar diferentes ferramentas, linguagens e sistemas operacionais e utiliza-las para resolver problemas e construir algo. 
+
+Currently studying Analysis and Systems Development at Cruzeiro do Sul, I like to learn to use different tools, languages ​​and operating systems and use them to solve problems and build something. 
 
 
 ## Contact-me on:<br>
@@ -21,8 +22,8 @@ Atualmente estuda Analise e Desenvolvimento de Sistemas na Cruzeiro do Sul, gost
 </a>
 
  <br>
-## Technologies <br>
- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+### Technologies: <br>
+ <img src="https://img.shields.io/badge/-DOCKER-E34F26?style=flat-square&logo=docker&logoColor=white"/>
 
 
 
