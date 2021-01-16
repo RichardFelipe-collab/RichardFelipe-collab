@@ -10,15 +10,15 @@ Atualmente estuda Analise e Desenvolvimento de Sistemas na Cruzeiro do Sul, gost
 # Contact-me on:<br>
 
 <a target="_blank" href="https://www.linkedin.com/in/richard-felipe-da-silva-oliveira-1ab55a135/">
- <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+ <img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511946348130">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+ <img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/>
 </a>
 
 <a target="_blank" href="mailto:richardfelipe.rfo@gmail.com">
   <img alt="Richard" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
-</a>
+</a><img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/>
 
 
 
