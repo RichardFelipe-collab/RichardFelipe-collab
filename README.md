@@ -26,7 +26,7 @@ Atualmente estuda Analise e Desenvolvimento de Sistemas na Cruzeiro do Sul, gost
   <rect width="0" height="20" fill="#555"/><rect x="0" width="65" height="20" fill="#e34f26"/>
  </g>
  <br>
-## Technologies
+## Technologies <br>
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 
