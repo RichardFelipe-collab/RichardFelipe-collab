@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="400px" height"500px" src="https://github.com/RichardFelipe-collab/RichardFelipe-collab/blob/main/4855639.jpg">
+<img width="400px" height="500px" src="https://github.com/RichardFelipe-collab/RichardFelipe-collab/blob/main/4855639.jpg">
 
 
 # :zap: Richard Felipe <br>
@@ -16,7 +16,7 @@ Currently studying Analysis and Systems Development at Cruzeiro do Sul, I like t
 </a>
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511946348130">
- <img align="left" " src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/>
+ <img align="left"  src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/>
 </a>
 
 <a target="_blank" href="mailto:richardfelipe.rfo@gmail.com">
