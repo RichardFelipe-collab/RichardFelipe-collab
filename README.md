@@ -8,6 +8,8 @@
 Currently studying Analysis and Systems Development at Cruzeiro do Sul, I like to learn to use different tools, languages ​​and operating systems and use them to solve problems and build something. 
 
 
+Do not hesitate to send me a message :speech_balloon: 
+
 ## Contact-me on:<br>
 
 <a  href="https://www.linkedin.com/in/richard-felipe-da-silva-oliveira-1ab55a135/" target="_blank">
