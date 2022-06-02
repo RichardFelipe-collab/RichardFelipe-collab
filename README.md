@@ -5,7 +5,7 @@
 # :zap: Richard Felipe <br>
 
 
-I am currently interning at oxytene as a software developer and scrum master, using azure devops, cronapp and oracle apex, I like to learn to use different tools, languages ​​and operating systems and use them to solve problems and build something. 
+I am currently interning at oxytene as a software developer and scrum master, using azure devops, cronapp, react, java, springboot, python I like to learn to use different tools, languages ​​and operating systems and use them to solve problems and build something. 
 
 
 Do not hesitate to send me a message :speech_balloon: 
