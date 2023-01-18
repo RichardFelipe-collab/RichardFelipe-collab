@@ -5,7 +5,9 @@
 # :zap: Richard Felipe <br>
 
 
-I like to develop interfaces and solutions that help people improve an area of ​​their lives, after all, that's what technology is for
+I like to develop interfaces and solutions that help people improve an area of ​​their lives, after all, that's what technology is for.
+
+I'm currently focused on the javascript stack and its frameworks. React, ReactNative, Nodejs, Fastify, Prisma etc ..
 
 
 Do not hesitate to send me a message :speech_balloon: 
